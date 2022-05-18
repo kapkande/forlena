@@ -1,0 +1,46 @@
+.text {
+  position: absolute;
+  left: 90%;
+  top: 50%;
+  font-size: 100px;
+  width: 100%;
+}
+.cat {
+
+}
+.asd { margin: 0 auto;
+max-width: 1182px;
+}
+/* .p {
+  animation: around 4s linear 0s infinite;
+  background: turquoise;
+  color: white;
+  height: 60px;
+  line-height: 60px;
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  width: 60px;
+}
+
+
+#digit {
+ 
+  cursor: pointer;
+}
+
+
+
+
+.cat {
+  margin: auto;
+  display: block;
+  box-shadow: 10px solid rgb(247, 247, 247); 
+  border-radius: 10px;
+      
+}
+* {margin: auto;}
+
+.digit {
+  display: none;
+} */
